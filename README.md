@@ -10,7 +10,7 @@ A great source of data is Kaggle: Your Home for Data Science, which has datasets
 
 **Project description and motivation /use-case: Is there a clearly identified, well-described use-case in the project? Is it well-motivated?**
 
-**Data and learning problem: Is the dataset to be used clearly described and explored, and is it clear what you are trying to learn from the data? If there are any particular challenges with the data, are they discussed? What kind of relationships might you expect to see? If you gathered data yourself, how did you go about this? **
+**Data and learning problem: Is the dataset to be used clearly described and explored, and is it clear what you are trying to learn from the data? If there are any particular challenges with the data, are they discussed? What kind of relationships might you expect to see? If you gathered data yourself, how did you go about this?**
 
 **Methodology: Is the methodology of applying ML / DA tools sound? Are multiple models considered and compared if relevant? Are the used models tuned / modified appropriately to try to improve performance?**
 
